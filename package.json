@@ -1,0 +1,19 @@
+{
+  "name": "101-workshop-jenny-and-maria-room-93",
+  "version": "1.0.0",
+  "description": "Node JS gives us the power to take JavaScript out of the browser - this means we're able to use it in servers and on the back end. Make sure you have the relevant version of Node for your OS installed from [here](https://nodejs.org/en/download/); you can choose which version you download, but the LTS version is recommended.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Maria-C1: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@github.com/SchoolOfCode/node-101-workshop-jenny-and-maria-room-93.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SchoolOfCode/node-101-workshop-jenny-and-maria-room-93/issues"
+  },
+  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-jenny-and-maria-room-93#readme"
+}
